@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **amanskanojiya@gmail.com**
 
-- 📄 Know about my education and projects [https://drive.google.com/file/d/1VAUIKLgLPb2AD3V-_uiR4hAdXKKPIkB-/view?usp=sharing](https://drive.google.com/file/d/1VAUIKLgLPb2AD3V-_uiR4hAdXKKPIkB-/view?usp=sharing)
+- 📄 Know about my education and projects [Resume](https://drive.google.com/file/d/1VAUIKLgLPb2AD3V-_uiR4hAdXKKPIkB-/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
