@@ -30,4 +30,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=kanojiya-aman&show_icons=true&locale=en" alt="kanojiya-aman" /></p>
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=kanojiya-aman&" alt="kanojiya-aman" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=kanojiya-aman&" alt="kanojiya-aman" /></p>
