@@ -1,4 +1,4 @@
-![logo]()
+![logo](https://github.com/kanojiya-aman/kanojiya-aman/blob/main/GitHub%20cover.png)
 
 <h1 align="center">Hi 👋, I'm Aman Kanojiya</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
