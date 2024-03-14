@@ -1,20 +1,17 @@
 <h1 align="center">Hi 👋, I'm Aman Kanojiya</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGRuMTJzaXY5dTg1Y2twNmRzZmNyYzBmb2swNDRpa3ZqcDFobnJzdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" alt="A GIF of a computer" style="width: 400px; position: absolute; right: 0;">
-
-
-
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kanojiya-aman&label=Profile%20views&color=0e75b6&style=flat" alt="kanojiya-aman" /> </p>
 
-- 🌱 I’m currently learning: **DSA and Web Development**
+- 🌱 I’m currently learning **Java, Data Structures and Algorithms, HTML, CSS, JavaScript, React.js, Next.js, etc**
 
 - 💬 Ask me about: **Java**
 
-- 📫 How to reach me: **amanskanojiya@gmail.com**
+- 📫 How to reach me **amanskanojiya@gmail.com**
 
-- 📄 Know about my education and projects [Click here](https://drive.google.com/file/d/1VAUIKLgLPb2AD3V-_uiR4hAdXKKPIkB-/view?usp=sharing)
+- 📄 Know about my education and projects [Resume](https://drive.google.com/file/d/1VAUIKLgLPb2AD3V-_uiR4hAdXKKPIkB-/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
