@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kanojiya-aman&label=Profile%20views&color=0e75b6&style=flat" alt="kanojiya-aman" /> </p>
 
-- 📚 Currently I'm pursuing MCA from Vivkenand Education Society's Institute of Technology, Chembur.
+- 📚 Currently I'm pursuing MCA from Vivekanand Education Society's Institute of Technology, Chembur.
 
 - 🌱 I’m currently learning : **Java, Data Structures and Algorithms, HTML, CSS, JavaScript, React.js, Next.js, etc**
 
