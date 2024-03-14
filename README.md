@@ -7,13 +7,13 @@
 
 - 📚 Currently I'm pursuing MCA from Vivkenand Education Society's Institute of Technology, Chembur.
 
-- 🌱 I’m currently learning: **Java, Data Structures and Algorithms, HTML, CSS, JavaScript, React.js, Next.js, etc**
+- 🌱 I’m currently learning : **Java, Data Structures and Algorithms, HTML, CSS, JavaScript, React.js, Next.js, etc**
 
-- 💬 Ask me about: **Java, OOPS and SQL**
+- 💬 Ask me about : **Java, OOPS and SQL**
 
 - 📫 How to reach me **amanskanojiya@gmail.com**
 
-- 📄 Know about my education and projects: [Click here](https://drive.google.com/file/d/1VAUIKLgLPb2AD3V-_uiR4hAdXKKPIkB-/view?usp=sharing)
+- 📄 Download my resume : [Click here](https://drive.google.com/uc?export=download&id=1VAUIKLgLPb2AD3V-_uiR4hAdXKKPIkB-)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
