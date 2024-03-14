@@ -4,7 +4,9 @@
 <img align="right" alt="coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGRuMTJzaXY5dTg1Y2twNmRzZmNyYzBmb2swNDRpa3ZqcDFobnJzdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kanojiya-aman&label=Profile%20views&color=0e75b6&style=flat" alt="kanojiya-aman" /> </p>
+
 - 📚 Currently I'm pursuing MCA from Vivkenand Education Society's Institute of Technology, Chembur.
+
 - 🌱 I’m currently learning: **Java, Data Structures and Algorithms, HTML, CSS, JavaScript, React.js, Next.js, etc**
 
 - 💬 Ask me about: **Java, OOPS and SQL**
