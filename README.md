@@ -1,4 +1,4 @@
-![logo](https://github.com/kanojiya-aman/kanojiya-aman/blob/main/github%20banner.gif)
+![logo](https://github.com/kanojiya-aman/kanojiya-aman/blob/main/kanojiya-aman.gif)
 
 <h1 align="center">Hello👋🏻, I'm Aman Kanojiya</h1>
 <h3 align="center">I'm a Passionate Software Developer from Mumbai</h3>
