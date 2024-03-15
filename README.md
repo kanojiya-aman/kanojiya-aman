@@ -1,7 +1,7 @@
-![logo](https://github.com/kanojiya-aman/kanojiya-aman/blob/main/GitHub%20cover.png)
+![logo](https://github.com/kanojiya-aman/kanojiya-aman/blob/main/github%20banner.gif)
 
-<h1 align="center">"Welcome to my GitHub Profile"</h1>
-<h3 align="center">Hello👋🏻, I'm Aman Kanojiya</h3>
+<h1 align="center">Hello👋🏻, I'm Aman Kanojiya</h1>
+<h3 align="center">I'm a Passionate Software Developer from Mumbai</h3>
 
 
 <img align="right" alt="coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGRuMTJzaXY5dTg1Y2twNmRzZmNyYzBmb2swNDRpa3ZqcDFobnJzdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif">
