@@ -10,7 +10,7 @@
 
 - I'm a 2nd year MCA student at Vivekanand Education Society's Institute of Technology, Chembur.
 
-- I’m currently learning : **Java, Data Structures and Algorithms, HTML, CSS, JavaScript, React.js, Next.js, etc**
+- I’m currently learning : **Java, Data Structures and Algorithms, HTML, CSS, JavaScript, React.js, etc**
 
 - Ask me about : **Java, OOPS and SQL**
 
