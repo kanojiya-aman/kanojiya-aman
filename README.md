@@ -1,4 +1,4 @@
-![logo]()
+
 
 <h1 align="center">Hello<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Aman Kanojiya</h1>
 <h3 align="center">I'm a Passionate Software Developer from Mumbai</h3>
