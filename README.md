@@ -4,7 +4,7 @@
 <h3 align="center">I'm a Passionate Software Developer from Mumbai</h3>
 
 
- <img align="right" alt="coding" width="400" src="https://github.com/kanojiya-aman/kanojiya-aman/blob/main/profile-pic%20(1).png"> 
+<!-- <img align="right" alt="coding" width="400" src="https://github.com/kanojiya-aman/kanojiya-aman/blob/main/profile-pic%20(1).png"> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kanojiya-aman&label=Profile%20views&color=0e75b6&style=flat" alt="kanojiya-aman" /> </p>
 
