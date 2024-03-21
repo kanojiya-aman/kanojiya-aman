@@ -20,7 +20,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/amannkanojiya" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="amannkanojiya" height="30" width="40" /></a>
+<a href="https://twitter.com/amannkanojiya" target="_blank"><img align="center" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/x-social-media-logo-icon.png" alt="amannkanojiya" height="40" width="40" /></a>
 <a href="https://linkedin.com/in/aman kanojiya" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aman kanojiya" height="30" width="40" /></a>
 <a href="https://instagram.com/amannkanojiya" target="_blank"><img align="center" src="https://img.icons8.com/?size=48&id=Xy10Jcu1L2Su&format=png" alt="amannkanojiya" height="40" width="40" /></a>
 <a href="https://discordapp.com/users/764015022837727232" target="_blank"><img align="center" src="https://img.icons8.com/?size=48&id=M725CLW4L7wE&format=png" alt="amannkanojiya" height="40" width="40" /></a>
