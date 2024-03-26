@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hello<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Aman Kanojiya</h1>
-<h3 align="center"><i></i>Welcome to my Github Profile</h3>i></h3>
+<h3 align="center">Welcome to my Github Profile</h3>
 
 
 <!-- <img align="right" alt="coding" width="400" src="https://github.com/kanojiya-aman/kanojiya-aman/blob/main/profile-pic%20(1).png"> -->
